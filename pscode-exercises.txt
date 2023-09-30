@@ -1,0 +1,35 @@
+
+// Exercise 1: Calculate the Sum of Two Numbers
+
+
+1 take variablers of a, b, and sum
+2 read variablesd into a, b
+3 add the variables a, b to get sum
+4 give the sum result
+
+(a + b == sum(print))
+
+// Exercise 2: Check if a Number is Even or Odd
+
+(Your pseudocode here)
+ if Number % by 2!= 0 Print Odd
+ if Number divided by 2 = 0 Print even 
+
+If N/2!= 0 "prinnt odd"
+If N/2== 0 "print even"
+
+// Exercise 3: 
+Write pseudo code that will perform the following.    
+
+a) Read in 5 separate numbers.   
+b) Calculate the average of the five numbers.
+c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+d) Write out the results found from steps b and c with a message describing what they are
+
+a. a==N(1), b==N(2), c==N(3) d==N(4), e==N(5)
+b. :==Average W==of : W abcd== "Print"3
+c. Sm== smallest minimum, Lm== largest minimum
+Sm W abcde ==a  Lm W abcde ==e
+d.:==average W==of Sm==smallest minimum Lm== largest minimum
+
+-- END --
